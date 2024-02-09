@@ -16,7 +16,7 @@ public class LargestAmongThree {
         else if (num2 >= num1 && num2 >= num3)
             largest = num2;
         else 
-        largest = num3;
+            largest = num3;
 
         System.out.println("Largest number is " + largest);
     }
